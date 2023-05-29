@@ -1,9 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
 
-EXTINF:,TESTE ITV 1 LIVE
+#EXTINF:-1,TESTE ITV 1 LIVE
 https://itv1simadotcom.itv.com/playout/pc01/itv1/cenc.isml/.mpd
-EXTINF:,TESTE ITV 2 LIVE
+#EXTINF:-1,TESTE ITV 2 LIVE
 https://itv2simadotcom.itv.com/playout/pc01/itv2/cenc.isml/.mpd
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="iTV 1 " tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv1.png" group-title="UK & USA",iTV 1 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6927
+#EXTINF:-1 tvg-id="" tvg-name="iTV 2 " tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv2.png" group-title="UK & USA",iTV 2 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6928
+#EXTINF:-1 tvg-id="" tvg-name="iTV 3" tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv3.png" group-title="UK & USA",iTV 3
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6929
 
 #EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC 1
 https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd
