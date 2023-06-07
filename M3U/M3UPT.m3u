@@ -6,6 +6,9 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br" status="online",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" status="online",TV Cidade de Petrópolis
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
 #EXTINF:-1,TESTE ITV 1 LIVE
 https://itv1simadotcom.itv.com/playout/pc01/itv1/cenc.isml/.mpd
 #EXTINF:-1,TESTE ITV 2 LIVE
