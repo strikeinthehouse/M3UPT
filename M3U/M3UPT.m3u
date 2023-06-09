@@ -3,11 +3,13 @@
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" status="online",TV Cidade de Petrópolis
+#EXTINF:-1 tvg-logo="INSIRA O LINK DO LOGO AQUI",TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="INSIRA O LINK DO LOGO AQUI" status="online",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" status="online",TV Cidade de Petrópolis
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="RedeMassa.br" status="online",SBT Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
