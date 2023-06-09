@@ -9,15 +9,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="INSIRA O LINK DO LOGO AQUI" status="online",TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="RedeMassa.br" status="online",SBT Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1,TESTE ITV 1 LIVE
-https://itv1simadotcom.itv.com/playout/pc01/itv1/cenc.isml/.mpd
-#EXTINF:-1,TESTE ITV 2 LIVE
-https://itv2simadotcom.itv.com/playout/pc01/itv2/cenc.isml/.mpd
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="iTV 1 " tvg-logo="http://smartntv.pro/logokanali/ukiusa/itv1.png" group-title="UK & USA",iTV 1 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6927
