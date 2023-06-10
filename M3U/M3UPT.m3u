@@ -645,15 +645,14 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="RUSSIAN NEWS",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/SKRL1MQ.png" group-title="PARLIAMENTARY",LCP
 http://callofliberty.fr/stream/LCP/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="AMERICAN NEWS",LiveNow Fox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NEWS WORLD",LiveNow Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="NEWS WORLD",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="NEWS WORLD",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -719,7 +718,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="AMERICAN NEWS",CNN USA
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="NEWS WORLD",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
