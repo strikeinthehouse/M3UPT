@@ -127,11 +127,13 @@ https://bit.ly/sicnotici?/index.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-name="ert-news" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS - GRÉCIA
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 
-#EXTINF:-1  group-title="NEWS WORLD" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",SKY NEWS
+#EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.skynews.com/content/dam/skynews/logos/Sky-News-Logo-2018.png",SKY NEWS
 https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/skynewspp-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1  group-title="CNN's" tvg-id="LCH35" tvg-name="CNN US" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png" ,CNN US 1
+
+#EXTINF:-1 group-title="CNN's" tvg-id="LCH35" tvg-name="CNN US" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logo_cnn_badge_2up.png",CNN US 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 #EXTINF:-1  group-title="CNN's" tvg-id="LCH35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" ,CNN US 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -145,11 +147,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 
 #EXTINF:-1 group-title="CNN's" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-
-error: No playable streams found on this URL: https://www.youtube.com/@CNNbrasil/live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.youtube.com/watch?v=c1s6KCeDWzE&ab_channel=CNNBrasil
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
