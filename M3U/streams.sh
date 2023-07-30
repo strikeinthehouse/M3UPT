@@ -22,10 +22,14 @@ sed -i "/live_tvi_direct/ c https://video-auth4.iol.pt/live_tvi_direct/live_tvi_
 
 python porto_canal.py && sed -e '/x8egnb8/ {' -e 'r porto_canal.txt' -e 'd' -e '}' -i M3UPT.m3u
 
-# CNN Brasil - use Streamlink to get the stream URL
+# CNN Brasil - use youtube-dl to get the stream URL
+YOUTUBE_URL="https://www.youtube.com/@CNNbrasil/live"
+CNN_BRASIL_URL=$(youtube-dl -g "$YOUTUBE_URL")
+if [ -z "$CNN_BRASIL_URL" ]; then
+  echo "Error: No live stream found for CNN Brasil."
+  exit 1
+fi
 
-YOUTUBE_URL="https://www.youtube.com/watch?v=C38R-1i8HnE"
-CNN_BRASIL_URL=$(streamlink --stream-url "$YOUTUBE_URL" best)
 echo "CNN Brasil Stream URL: $CNN_BRASIL_URL"
 sed -i "/#EXTINF.*CNN Brasil/ c $CNN_BRASIL_URL" M3UPT.m3u
 
