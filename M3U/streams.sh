@@ -24,7 +24,7 @@ python porto_canal.py && sed -e '/x8egnb8/ {' -e 'r porto_canal.txt' -e 'd' -e '
 
 # CNN Brasil - use Streamlink to get the stream URL
 
-YOUTUBE_URL="https://www.youtube.com/@CNNbrasil/live"
+YOUTUBE_URL="https://www.youtube.com/@CNNbrasil/"
 CNN_BRASIL_URL=$(streamlink --stream-url "$YOUTUBE_URL" best)
 echo "CNN Brasil Stream URL: $CNN_BRASIL_URL"
 sed -i "/#EXTINF.*CNN Brasil/ c $CNN_BRASIL_URL" M3UPT.m3u
