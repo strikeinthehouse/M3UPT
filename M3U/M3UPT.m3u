@@ -157,37 +157,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 
 
 
-
-#EXTINF:-1 group-title="CNN's" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI0IDEwOjEwOjU1IFBNJmhhc2hfdmFsdWU9Tk0xaS83ZmI5Zm5SQWRaYXBQQ0xvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2Y2IwODM4LTdmM2EtNDM3My05MmZjLTVmZmMyNDMzOGZiYQ==/
 
-#EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI0IDEwOjEwOjU1IFBNJmhhc2hfdmFsdWU9Tk0xaS83ZmI5Zm5SQWRaYXBQQ0xvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2Y2IwODM4LTdmM2EtNDM3My05MmZjLTVmZmMyNDMzOGZiYQ==/
-
-
-#EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI0IDEwOjEwOjU1IFBNJmhhc2hfdmFsdWU9Tk0xaS83ZmI5Zm5SQWRaYXBQQ0xvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2Y2IwODM4LTdmM2EtNDM3My05MmZjLTVmZmMyNDMzOGZiYQ==/
-
-#EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 3
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDI0IDEwOjEwOjU1IFBNJmhhc2hfdmFsdWU9Tk0xaS83ZmI5Zm5SQWRaYXBQQ0xvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2Y2IwODM4LTdmM2EtNDM3My05MmZjLTVmZmMyNDMzOGZiYQ==/
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="CNN.us" group-title="CNN's" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/favicon/apple-touch-icon.png",CNN AMERICANA REPLAY
-https://doq6y2m748j16.cloudfront.net/playlist_1920x1080.m3u8
 
 
 
