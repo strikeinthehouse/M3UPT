@@ -142,7 +142,7 @@ https://bit.ly/sicnotici?/index.m3u8
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-logo="https://www.skynews.com/content/dam/skynews/logos/Sky-News-Logo-2018.png",SKY NEWS
-https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/skynewspp-origin/live_720p/chunks.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerI
 
 
 #EXTINF:-1 group-title="CNN's" tvg-id="LCH35" tvg-name="CNN US" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logo_cnn_badge_2up.png",CNN US 1
@@ -155,13 +155,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L6NGZFj/cnn.png" ggroup-title="CNN's" user-agent="iPhone", CNN America
 http://204.157.251.250:8000/play/a068/index.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png" group-title="CNN's" user-agent="iPhone", CNN Brasil
+#EXTINF:0  tvg-id="CNNBrasil.br" tvg-logo="https://i.ibb.co/7kD8t97/cnn-brasil.png" group-title="CNN's" user-agent="iPhone", CNN Brasil
 http://bccdn.xyz:80/594023850943868/897489270938609/588
 
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/L6NGZFj/cnn.png" group-title="CNN's" user-agent="iPhone", CNN Europa
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/jw6VHBg/cnnfast.jpg" group-title="CNN's" user-agent="iPhone", CNN Fast
+#EXTINF:0 channel-id="samsung-ATBD190000101" tvg-id="ATBD190000101" player-buffer="30" tvg-logo="https://i.ibb.co/jw6VHBg/cnnfast.jpg" group-title="CNN's" user-agent="iPhone", CNN Fast
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8
@@ -172,9 +172,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/GxRmwcz/cnnportugal.png" group-title="News" user-agent="iPhone", CNN Portugal
 http://viegas.maisvip.top:8080/FilipePena2022/AS24FTZ88WPL7/26
 
-
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 
 
 
@@ -197,10 +194,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="CNN's",CNN News 18
-http://103.139.171.5:5001/live.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="CNN's",N1 CNN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3cKE6zfz9RIUTCS0obU-EleqWvrNmZrAPg&s" group-title="CNN's",N1 CNN
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 
 #EXTINF:-1 group-title="TV" tvg-id="rainews.tv.vodafone.pt" tvg-logo="https://www.raiplay.it/resizegd/300x-/dl/img/2023/01/19/1674083857577_1.jpg",RAI NEWS24
