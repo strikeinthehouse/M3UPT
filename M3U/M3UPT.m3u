@@ -167,8 +167,7 @@ https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://jmp2.uk/SamsungTVPlus/ATBD190000101.m3u8
 
-#EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/2v4CJJj/cnnindonesia.png" group-title="CNN's" user-agent="iPhone", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 
 
 
@@ -181,6 +180,8 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI0IDU6MTA6MjUgUE0maGFzaF92YWx1ZT01N09ZOGpCTi9mVERxbEhqUm5rLzR3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDc3NzE3ZmItOWJlMC00MmFlLTk0Y2YtNGM2ZDU2YjI1YWIz/
+
+
 
 
 
