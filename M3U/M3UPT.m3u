@@ -2,6 +2,13 @@
 
 
 
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="GLOBO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-globo-premium-br.png" group-title="PORTUGAL",GLOBO
+http://rolatvs.com:8080/Jorgepai/Jorgepai161122/10
+#EXTINF:-1 tvg-id="" tvg-name="|Low| GLOBO" tvg-logo="http://osfilhosdajaula.com/img/10.png" group-title="PORTUGAL",|Low| GLOBO
+http://rolatvs.com:8080/Jorgepai/Jorgepai161122/332
+#EXTINF:-1 tvg-id="recordnews.pt" tvg-name="RECORD NEWS" tvg-logo="https://www.meo.pt/PublishingImages/canais/record-news.png" group-title="PORTUGAL",RECORD NEWS MZ
+http://rolatvs.com:8080/Jorgepai/Jorgepai161122/176
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
