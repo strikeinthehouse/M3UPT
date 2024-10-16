@@ -11,7 +11,7 @@ jobs:
     steps:
     
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: install XMLTV and URI::Encode
         run: sudo apt-get install -y xmltv liburi-encode-perl
