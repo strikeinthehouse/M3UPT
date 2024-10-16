@@ -1,9 +1,7 @@
 name: Update EPG
-
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: # This will enable manual triggering of the workflow through GitHub Actions UI
+    - cron: "0 */12 * * *"
 
 jobs:
   Update-EPG:
@@ -13,21 +11,23 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
         
-      - name: install XMLTV and URI::Encode
-        run: sudo apt-get install -y xmltv liburi-encode-perl
-        
-      - name: update EPG (Vodafone)
-        run: sh EPG/epg-vodafone-pt.sh
+      - name: checkout iptv-org/epg repo
+        uses: actions/checkout@v4
+        with:
+         repository: iptv-org/epg
+         path: iptv-org-epg
+
+      - name: update EPG
+        run: sh EPG/epg-pt.sh
 
       - name: setup git config
         run: |
-          git config user.name "M3UPT Bot"
+          git config user.name "🤖 R2-D2"
           git config user.email "<>"
 
       - name: commit
         run: |
           git pull
-          cd EPG
-          git add tv_grab_pt_vodafone epg-vodafone-pt.xml epg-vodafone-pt.xml.gz
+          cd EPG && git add .
           git commit -m "Update EPG"
           git push origin main
