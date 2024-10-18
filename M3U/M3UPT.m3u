@@ -2,29 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-name="RTP 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png" group-title="PORTUGAL",RTP 1
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/1
-#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-name="RTP 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png" group-title="PORTUGAL",RTP 1 HD
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/1001
-#EXTINF:-1 tvg-id="rtp1hd.tv.vodafone.pt" tvg-name="|Low| RTP 1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png" group-title="PORTUGAL",|Low| RTP 1
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/343
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-name="RTP 2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="PORTUGAL",RTP 2
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/2
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-name="RTP 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="PORTUGAL",RTP 2 HD
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/1002
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-name="|Low| RTP 2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="PORTUGAL",|Low| RTP 2
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/344
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="GLOBO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-globo-premium-br.png" group-title="PORTUGAL",GLOBO
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/10
-#EXTINF:-1 tvg-id="" tvg-name="|Low| GLOBO" tvg-logo="http://osfilhosdajaula.com/img/10.png" group-title="PORTUGAL",|Low| GLOBO
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/332
-#EXTINF:-1 tvg-id="recordnews.pt" tvg-name="RECORD NEWS" tvg-logo="https://www.meo.pt/PublishingImages/canais/record-news.png" group-title="PORTUGAL",RECORD NEWS MZ
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/176
-#EXTINF:-1 tvg-id="tvihd.tv.vodafone.pt" tvg-logo="http://osfilhosdajaula.com/img/4.png" group-title="PORTUGAL",TVI HD
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/1004
-#EXTINF:-1 tvg-id="TVIR.meo.pt" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvi_pt_reality.png" group-title="PORTUGAL",TVI REALITY
-http://rolatvs.com:8080/Jorgepai/Jorgepai161122/15
-
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://rtp.pt/
