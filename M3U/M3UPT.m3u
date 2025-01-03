@@ -74,22 +74,22 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMCBQTSZoYXNoX3ZhbHVlPUR0UTE0WUpzQ2Y4T0dCWmhlVWlYZVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YWJmN2E0ZC00MDYxLTQ2NDMtOGM3NS05OWU4Yzc4NjhmZTc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MCBQTSZoYXNoX3ZhbHVlPTQwdDJPZUVJc1ZIaFk5TWhEbUNFUWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzkzYjY3My04Mzc3LTRkNDYtODQ0ZC1iNWEwOThlN2NhYTg=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMCBQTSZoYXNoX3ZhbHVlPUR0UTE0WUpzQ2Y4T0dCWmhlVWlYZVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YWJmN2E0ZC00MDYxLTQ2NDMtOGM3NS05OWU4Yzc4NjhmZTc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MCBQTSZoYXNoX3ZhbHVlPTQwdDJPZUVJc1ZIaFk5TWhEbUNFUWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzkzYjY3My04Mzc3LTRkNDYtODQ0ZC1iNWEwOThlN2NhYTg=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMCBQTSZoYXNoX3ZhbHVlPUR0UTE0WUpzQ2Y4T0dCWmhlVWlYZVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YWJmN2E0ZC00MDYxLTQ2NDMtOGM3NS05OWU4Yzc4NjhmZTc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MCBQTSZoYXNoX3ZhbHVlPTQwdDJPZUVJc1ZIaFk5TWhEbUNFUWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzkzYjY3My04Mzc3LTRkNDYtODQ0ZC1iNWEwOThlN2NhYTg=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMCBQTSZoYXNoX3ZhbHVlPUR0UTE0WUpzQ2Y4T0dCWmhlVWlYZVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YWJmN2E0ZC00MDYxLTQ2NDMtOGM3NS05OWU4Yzc4NjhmZTc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MCBQTSZoYXNoX3ZhbHVlPTQwdDJPZUVJc1ZIaFk5TWhEbUNFUWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzkzYjY3My04Mzc3LTRkNDYtODQ0ZC1iNWEwOThlN2NhYTg=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -153,10 +153,10 @@ https://bit.ly/sicnotici?/index.m3u8
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMSBQTSZoYXNoX3ZhbHVlPW5CVUMxdVlEMlVuNUhZRjVaWkY4MlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lYzE5MDI0NS02M2RiLTRiOGUtYmRjZi1lNDI1YTc5ODRmNjg=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MSBQTSZoYXNoX3ZhbHVlPW5PblY2UDdkNzkzMXEySFp1OGxsL2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZjJkMzNmYi0yOTg4LTQxZTQtYjI2ZS03YTIzNGQ3MzY4M2U=/
 
 #EXTINF:-1 group-title="PORTUGAL" group-title="CNN's" group-title="NEWS WORLD" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal 2
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMSBQTSZoYXNoX3ZhbHVlPW5CVUMxdVlEMlVuNUhZRjVaWkY4MlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lYzE5MDI0NS02M2RiLTRiOGUtYmRjZi1lNDI1YTc5ODRmNjg=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MSBQTSZoYXNoX3ZhbHVlPW5PblY2UDdkNzkzMXEySFp1OGxsL2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZjJkMzNmYi0yOTg4LTQxZTQtYjI2ZS03YTIzNGQ3MzY4M2U=/
 
 
 
@@ -238,12 +238,12 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/rtp_playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMSBQTSZoYXNoX3ZhbHVlPUZlbm5aeUFvdldOLzlxdEVGTjJtdEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03M2Y3YTk1MC04ZjAxLTQwNmYtODBhOS03ZjY2MTc3MzYyNGY=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MSBQTSZoYXNoX3ZhbHVlPVJmVWttRHFVVGFZNWc0N3ZLc2RVUlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjNhNjlkYS0yYmE2LTQ1MTQtOWY2NC01NzVlNjhhNjA3MDI=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMSBQTSZoYXNoX3ZhbHVlPUZlbm5aeUFvdldOLzlxdEVGTjJtdEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03M2Y3YTk1MC04ZjAxLTQwNmYtODBhOS03ZjY2MTc3MzYyNGY=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MSBQTSZoYXNoX3ZhbHVlPVJmVWttRHFVVGFZNWc0N3ZLc2RVUlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjNhNjlkYS0yYmE2LTQ1MTQtOWY2NC01NzVlNjhhNjA3MDI=/
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
@@ -271,13 +271,13 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMiBQTSZoYXNoX3ZhbHVlPXdoMEdUcm9oOG11UFE3V3NnT3o5S0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NGNkNzIxNC0xNmRhLTRjZDgtODhjZi05MjBmYmIxMTkwOTk=/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MiBQTSZoYXNoX3ZhbHVlPWhLRmZaamdmRzFWQjd2K1QwN0hzU0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ODI5M2UzZC1lMTYzLTQ1NjQtYTgxNS1hYTU3NzgxNmRkMGY=/
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNDoyMDozMiBQTSZoYXNoX3ZhbHVlPXdoMEdUcm9oOG11UFE3V3NnT3o5S0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NGNkNzIxNC0xNmRhLTRjZDgtODhjZi05MjBmYmIxMTkwOTk=/
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjUgNjoyMjo1MiBQTSZoYXNoX3ZhbHVlPWhLRmZaamdmRzFWQjd2K1QwN0hzU0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ODI5M2UzZC1lMTYzLTQ1NjQtYTgxNS1hYTU3NzgxNmRkMGY=/
 
 
 
