@@ -6,6 +6,10 @@ https://view.dacast.com/24b61c472d976075ed46ad1eb530e6ae-live-fdc85437d7631afb59
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
+https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 - 2
